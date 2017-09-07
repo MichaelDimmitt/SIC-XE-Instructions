@@ -1,19 +1,6 @@
 
 <html>
-<head></font>
-  ## SIC/XE Instruction Set Summary
-  <!--</font>
-  a{text-decoration:none}</font>
-  a.usual:hover{color:red; background-color:#99FFFF; text-decoration: underline;}</font>
-  a.bkcolor:hover{background-color:#99FFFF}</font>
-  p.pagebreak{page-break-before: always}</font>
-  --></font>
-</style>
-<!--
-activator for a page break: <p class="pagebreak">
--->
-  <link rel="shortcut icon" href="CW_small.ico">
-</head>
+
 <h2>SIC/XE Instruction Set</h2>
 <font color="blue"><i>Op codes in blue are SIC/XE only instructions</i></font><br>
 <font color="red"><i> Op codes in red are not implemented by the simulator</i></font>
